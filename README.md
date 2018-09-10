@@ -19,7 +19,7 @@ k2epic,ra=inputRA,dec=inputDEC,inrad=inputrad,step=step,epicid=inputepicno
 ```
 
 **Required input parameters:**	<br/>
-inputRA  ... input right ascension (decimal degrees) <br/>
+`inputRA  ... input right ascension (decimal degrees) <br/>`
 inputDEC ... input declination (decimal degrees) <br/>
 inputrad ... input radius (decimal degrees) <br/>
 	
